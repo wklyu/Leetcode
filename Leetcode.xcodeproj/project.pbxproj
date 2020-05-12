@@ -7,11 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FE516A6B246A257D00CCBE94 /* #211-Add and Search Word.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A62246A257D00CCBE94 /* #211-Add and Search Word.cpp */; };
-		FE516A6C246A257D00CCBE94 /* #979. Distribute Coins in Binary Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A64246A257D00CCBE94 /* #979. Distribute Coins in Binary Tree.cpp */; };
-		FE516A6D246A257D00CCBE94 /* #542 01 Matrix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A66246A257D00CCBE94 /* #542 01 Matrix.cpp */; };
-		FE516A6E246A257D00CCBE94 /* #969. Pancake Sorting.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A68246A257D00CCBE94 /* #969. Pancake Sorting.cpp */; };
-		FE516A6F246A257D00CCBE94 /* #1351 Count Negative Numbers in a Sorted Matrix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A6A246A257D00CCBE94 /* #1351 Count Negative Numbers in a Sorted Matrix.cpp */; };
+		FE516A73246A260C00CCBE94 /* 1438.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A72246A260C00CCBE94 /* 1438.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,12 +23,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		FE5169FA246A232D00CCBE94 /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Leetcode; path = /Users/weikunlyu/Desktop/Leetcode/build/Debug/Leetcode; sourceTree = "<absolute>"; };
 		FE516A62246A257D00CCBE94 /* #211-Add and Search Word.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "#211-Add and Search Word.cpp"; sourceTree = "<group>"; };
 		FE516A64246A257D00CCBE94 /* #979. Distribute Coins in Binary Tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "#979. Distribute Coins in Binary Tree.cpp"; sourceTree = "<group>"; };
 		FE516A66246A257D00CCBE94 /* #542 01 Matrix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "#542 01 Matrix.cpp"; sourceTree = "<group>"; };
 		FE516A68246A257D00CCBE94 /* #969. Pancake Sorting.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "#969. Pancake Sorting.cpp"; sourceTree = "<group>"; };
 		FE516A6A246A257D00CCBE94 /* #1351 Count Negative Numbers in a Sorted Matrix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "#1351 Count Negative Numbers in a Sorted Matrix.cpp"; sourceTree = "<group>"; };
+		FE516A70246A25B900CCBE94 /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
+		FE516A72246A260C00CCBE94 /* 1438.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1438.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,11 +46,13 @@
 		FE5169F1246A232D00CCBE94 = {
 			isa = PBXGroup;
 			children = (
+				FE516A71246A25F600CCBE94 /* Youtube_HuaHua */,
 				FE516A61246A257D00CCBE94 /* Backtracking */,
 				FE516A69246A257D00CCBE94 /* Binary Search */,
 				FE516A65246A257D00CCBE94 /* Divide and Conquer */,
 				FE516A67246A257D00CCBE94 /* Sort */,
 				FE516A63246A257D00CCBE94 /* Tree */,
+				FE516A70246A25B900CCBE94 /* Leetcode */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,6 +96,14 @@
 			path = "Binary Search";
 			sourceTree = "<group>";
 		};
+		FE516A71246A25F600CCBE94 /* Youtube_HuaHua */ = {
+			isa = PBXGroup;
+			children = (
+				FE516A72246A260C00CCBE94 /* 1438.cpp */,
+			);
+			path = Youtube_HuaHua;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -114,7 +121,7 @@
 			);
 			name = Leetcode;
 			productName = Leetcode;
-			productReference = FE5169FA246A232D00CCBE94 /* Leetcode */;
+			productReference = FE516A70246A25B900CCBE94 /* Leetcode */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -154,11 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FE516A6E246A257D00CCBE94 /* #969. Pancake Sorting.cpp in Sources */,
-				FE516A6B246A257D00CCBE94 /* #211-Add and Search Word.cpp in Sources */,
-				FE516A6D246A257D00CCBE94 /* #542 01 Matrix.cpp in Sources */,
-				FE516A6C246A257D00CCBE94 /* #979. Distribute Coins in Binary Tree.cpp in Sources */,
-				FE516A6F246A257D00CCBE94 /* #1351 Count Negative Numbers in a Sorted Matrix.cpp in Sources */,
+				FE516A73246A260C00CCBE94 /* 1438.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
