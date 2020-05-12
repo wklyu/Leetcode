@@ -7,18 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FE516A1E246A238600CCBE94 /* #979. Distribute Coins in Binary Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A06246A238600CCBE94 /* #979. Distribute Coins in Binary Tree.cpp */; };
-		FE516A1F246A238600CCBE94 /* #1351 Count Negative Numbers in a Sorted Matrix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A08246A238600CCBE94 /* #1351 Count Negative Numbers in a Sorted Matrix.cpp */; };
-		FE516A20246A238600CCBE94 /* #969. Pancake Sorting.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A0A246A238600CCBE94 /* #969. Pancake Sorting.cpp */; };
-		FE516A21246A238600CCBE94 /* #542 01 Matrix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A0C246A238600CCBE94 /* #542 01 Matrix.cpp */; };
-		FE516A22246A238600CCBE94 /* #211-Add and Search Word.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A0F246A238600CCBE94 /* #211-Add and Search Word.cpp */; };
-		FE516A23246A238600CCBE94 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A1A246A238600CCBE94 /* main.cpp */; };
+		FE516A5B246A253000CCBE94 /* #211-Add and Search Word.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A49246A253000CCBE94 /* #211-Add and Search Word.cpp */; };
+		FE516A5C246A253000CCBE94 /* #542 01 Matrix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A4B246A253000CCBE94 /* #542 01 Matrix.cpp */; };
+		FE516A5D246A253000CCBE94 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A51246A253000CCBE94 /* main.cpp */; };
+		FE516A5E246A253000CCBE94 /* #969. Pancake Sorting.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A56246A253000CCBE94 /* #969. Pancake Sorting.cpp */; };
+		FE516A5F246A253000CCBE94 /* #979. Distribute Coins in Binary Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A58246A253000CCBE94 /* #979. Distribute Coins in Binary Tree.cpp */; };
+		FE516A60246A253000CCBE94 /* #1351 Count Negative Numbers in a Sorted Matrix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE516A5A246A253000CCBE94 /* #1351 Count Negative Numbers in a Sorted Matrix.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		FE516A1C246A238600CCBE94 /* PBXContainerItemProxy */ = {
+		FE516A53246A253000CCBE94 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = FE516A16246A238600CCBE94 /* Dynamic programming.xcodeproj */;
+			containerPortal = FE516A4D246A253000CCBE94 /* Dynamic programming.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = FE7C50AC241453290058F1EC;
 			remoteInfo = "Dynamic programming";
@@ -38,14 +38,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		FE5169FA246A232D00CCBE94 /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
-		FE516A06246A238600CCBE94 /* #979. Distribute Coins in Binary Tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "#979. Distribute Coins in Binary Tree.cpp"; sourceTree = "<group>"; };
-		FE516A08246A238600CCBE94 /* #1351 Count Negative Numbers in a Sorted Matrix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "#1351 Count Negative Numbers in a Sorted Matrix.cpp"; sourceTree = "<group>"; };
-		FE516A0A246A238600CCBE94 /* #969. Pancake Sorting.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "#969. Pancake Sorting.cpp"; sourceTree = "<group>"; };
-		FE516A0C246A238600CCBE94 /* #542 01 Matrix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "#542 01 Matrix.cpp"; sourceTree = "<group>"; };
-		FE516A0F246A238600CCBE94 /* #211-Add and Search Word.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "#211-Add and Search Word.cpp"; sourceTree = "<group>"; };
-		FE516A16246A238600CCBE94 /* Dynamic programming.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "Dynamic programming.xcodeproj"; sourceTree = "<group>"; };
-		FE516A1A246A238600CCBE94 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		FE5169FA246A232D00CCBE94 /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = Leetcode; path = /Users/weikunlyu/Desktop/Leetcode/build/Debug/Leetcode; sourceTree = "<absolute>"; };
+		FE516A49246A253000CCBE94 /* #211-Add and Search Word.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "#211-Add and Search Word.cpp"; sourceTree = "<group>"; };
+		FE516A4B246A253000CCBE94 /* #542 01 Matrix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "#542 01 Matrix.cpp"; sourceTree = "<group>"; };
+		FE516A4D246A253000CCBE94 /* Dynamic programming.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "Dynamic programming.xcodeproj"; sourceTree = "<group>"; };
+		FE516A51246A253000CCBE94 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		FE516A56246A253000CCBE94 /* #969. Pancake Sorting.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "#969. Pancake Sorting.cpp"; sourceTree = "<group>"; };
+		FE516A58246A253000CCBE94 /* #979. Distribute Coins in Binary Tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "#979. Distribute Coins in Binary Tree.cpp"; sourceTree = "<group>"; };
+		FE516A5A246A253000CCBE94 /* #1351 Count Negative Numbers in a Sorted Matrix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "#1351 Count Negative Numbers in a Sorted Matrix.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,143 +62,78 @@
 		FE5169F1246A232D00CCBE94 = {
 			isa = PBXGroup;
 			children = (
-				FE516A04246A238500CCBE94 /* Array */,
-				FE516A0E246A238600CCBE94 /* Backtracking */,
-				FE516A07246A238600CCBE94 /* Binary Search */,
-				FE516A0B246A238600CCBE94 /* Divide and Conquer */,
-				FE516A15246A238600CCBE94 /* Dynamic programming */,
-				FE516A13246A238600CCBE94 /* Heap */,
-				FE516A12246A238600CCBE94 /* Linked List */,
-				FE516A11246A238600CCBE94 /* Queue */,
-				FE516A09246A238600CCBE94 /* Sort */,
-				FE516A0D246A238600CCBE94 /* Stack */,
-				FE516A14246A238600CCBE94 /* String */,
-				FE516A05246A238600CCBE94 /* Tree */,
-				FE516A10246A238600CCBE94 /* Youtube-huahua */,
-				FE5169FB246A232D00CCBE94 /* Products */,
+				FE516A48246A253000CCBE94 /* Backtracking */,
+				FE516A59246A253000CCBE94 /* Binary Search */,
+				FE516A4A246A253000CCBE94 /* Divide and Conquer */,
+				FE516A4C246A253000CCBE94 /* Dynamic programming */,
+				FE516A55246A253000CCBE94 /* Sort */,
+				FE516A57246A253000CCBE94 /* Tree */,
 			);
 			sourceTree = "<group>";
 		};
-		FE5169FB246A232D00CCBE94 /* Products */ = {
+		FE516A48246A253000CCBE94 /* Backtracking */ = {
 			isa = PBXGroup;
 			children = (
-				FE5169FA246A232D00CCBE94 /* Leetcode */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		FE516A04246A238500CCBE94 /* Array */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Array;
-			sourceTree = "<group>";
-		};
-		FE516A05246A238600CCBE94 /* Tree */ = {
-			isa = PBXGroup;
-			children = (
-				FE516A06246A238600CCBE94 /* #979. Distribute Coins in Binary Tree.cpp */,
-			);
-			path = Tree;
-			sourceTree = "<group>";
-		};
-		FE516A07246A238600CCBE94 /* Binary Search */ = {
-			isa = PBXGroup;
-			children = (
-				FE516A08246A238600CCBE94 /* #1351 Count Negative Numbers in a Sorted Matrix.cpp */,
-			);
-			path = "Binary Search";
-			sourceTree = "<group>";
-		};
-		FE516A09246A238600CCBE94 /* Sort */ = {
-			isa = PBXGroup;
-			children = (
-				FE516A0A246A238600CCBE94 /* #969. Pancake Sorting.cpp */,
-			);
-			path = Sort;
-			sourceTree = "<group>";
-		};
-		FE516A0B246A238600CCBE94 /* Divide and Conquer */ = {
-			isa = PBXGroup;
-			children = (
-				FE516A0C246A238600CCBE94 /* #542 01 Matrix.cpp */,
-			);
-			path = "Divide and Conquer";
-			sourceTree = "<group>";
-		};
-		FE516A0D246A238600CCBE94 /* Stack */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Stack;
-			sourceTree = "<group>";
-		};
-		FE516A0E246A238600CCBE94 /* Backtracking */ = {
-			isa = PBXGroup;
-			children = (
-				FE516A0F246A238600CCBE94 /* #211-Add and Search Word.cpp */,
+				FE516A49246A253000CCBE94 /* #211-Add and Search Word.cpp */,
 			);
 			path = Backtracking;
 			sourceTree = "<group>";
 		};
-		FE516A10246A238600CCBE94 /* Youtube-huahua */ = {
+		FE516A4A246A253000CCBE94 /* Divide and Conquer */ = {
 			isa = PBXGroup;
 			children = (
+				FE516A4B246A253000CCBE94 /* #542 01 Matrix.cpp */,
 			);
-			path = "Youtube-huahua";
+			path = "Divide and Conquer";
 			sourceTree = "<group>";
 		};
-		FE516A11246A238600CCBE94 /* Queue */ = {
+		FE516A4C246A253000CCBE94 /* Dynamic programming */ = {
 			isa = PBXGroup;
 			children = (
-			);
-			path = Queue;
-			sourceTree = "<group>";
-		};
-		FE516A12246A238600CCBE94 /* Linked List */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "Linked List";
-			sourceTree = "<group>";
-		};
-		FE516A13246A238600CCBE94 /* Heap */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Heap;
-			sourceTree = "<group>";
-		};
-		FE516A14246A238600CCBE94 /* String */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = String;
-			sourceTree = "<group>";
-		};
-		FE516A15246A238600CCBE94 /* Dynamic programming */ = {
-			isa = PBXGroup;
-			children = (
-				FE516A16246A238600CCBE94 /* Dynamic programming.xcodeproj */,
-				FE516A19246A238600CCBE94 /* Dynamic programming */,
+				FE516A4D246A253000CCBE94 /* Dynamic programming.xcodeproj */,
+				FE516A50246A253000CCBE94 /* Dynamic programming */,
 			);
 			path = "Dynamic programming";
 			sourceTree = "<group>";
 		};
-		FE516A17246A238600CCBE94 /* Products */ = {
+		FE516A4E246A253000CCBE94 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FE516A1D246A238600CCBE94 /* Dynamic programming */,
+				FE516A54246A253000CCBE94 /* Dynamic programming */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FE516A19246A238600CCBE94 /* Dynamic programming */ = {
+		FE516A50246A253000CCBE94 /* Dynamic programming */ = {
 			isa = PBXGroup;
 			children = (
-				FE516A1A246A238600CCBE94 /* main.cpp */,
+				FE516A51246A253000CCBE94 /* main.cpp */,
 			);
 			path = "Dynamic programming";
+			sourceTree = "<group>";
+		};
+		FE516A55246A253000CCBE94 /* Sort */ = {
+			isa = PBXGroup;
+			children = (
+				FE516A56246A253000CCBE94 /* #969. Pancake Sorting.cpp */,
+			);
+			path = Sort;
+			sourceTree = "<group>";
+		};
+		FE516A57246A253000CCBE94 /* Tree */ = {
+			isa = PBXGroup;
+			children = (
+				FE516A58246A253000CCBE94 /* #979. Distribute Coins in Binary Tree.cpp */,
+			);
+			path = Tree;
+			sourceTree = "<group>";
+		};
+		FE516A59246A253000CCBE94 /* Binary Search */ = {
+			isa = PBXGroup;
+			children = (
+				FE516A5A246A253000CCBE94 /* #1351 Count Negative Numbers in a Sorted Matrix.cpp */,
+			);
+			path = "Binary Search";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -244,12 +179,12 @@
 				Base,
 			);
 			mainGroup = FE5169F1246A232D00CCBE94;
-			productRefGroup = FE5169FB246A232D00CCBE94 /* Products */;
+			productRefGroup = FE5169F1246A232D00CCBE94;
 			projectDirPath = "";
 			projectReferences = (
 				{
-					ProductGroup = FE516A17246A238600CCBE94 /* Products */;
-					ProjectRef = FE516A16246A238600CCBE94 /* Dynamic programming.xcodeproj */;
+					ProductGroup = FE516A4E246A253000CCBE94 /* Products */;
+					ProjectRef = FE516A4D246A253000CCBE94 /* Dynamic programming.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -260,11 +195,11 @@
 /* End PBXProject section */
 
 /* Begin PBXReferenceProxy section */
-		FE516A1D246A238600CCBE94 /* Dynamic programming */ = {
+		FE516A54246A253000CCBE94 /* Dynamic programming */ = {
 			isa = PBXReferenceProxy;
 			fileType = "compiled.mach-o.executable";
 			path = "Dynamic programming";
-			remoteRef = FE516A1C246A238600CCBE94 /* PBXContainerItemProxy */;
+			remoteRef = FE516A53246A253000CCBE94 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
@@ -274,12 +209,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FE516A20246A238600CCBE94 /* #969. Pancake Sorting.cpp in Sources */,
-				FE516A1E246A238600CCBE94 /* #979. Distribute Coins in Binary Tree.cpp in Sources */,
-				FE516A23246A238600CCBE94 /* main.cpp in Sources */,
-				FE516A1F246A238600CCBE94 /* #1351 Count Negative Numbers in a Sorted Matrix.cpp in Sources */,
-				FE516A21246A238600CCBE94 /* #542 01 Matrix.cpp in Sources */,
-				FE516A22246A238600CCBE94 /* #211-Add and Search Word.cpp in Sources */,
+				FE516A5E246A253000CCBE94 /* #969. Pancake Sorting.cpp in Sources */,
+				FE516A5B246A253000CCBE94 /* #211-Add and Search Word.cpp in Sources */,
+				FE516A5C246A253000CCBE94 /* #542 01 Matrix.cpp in Sources */,
+				FE516A5F246A253000CCBE94 /* #979. Distribute Coins in Binary Tree.cpp in Sources */,
+				FE516A5D246A253000CCBE94 /* main.cpp in Sources */,
+				FE516A60246A253000CCBE94 /* #1351 Count Negative Numbers in a Sorted Matrix.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
